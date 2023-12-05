@@ -1,0 +1,51 @@
+Locale	is_localized	[mod-name]	YourCheapMode_mod-name	[mod-description]	YourCheapMode_mod-description	[mod-setting-name]	YourCheapMode-player-items-exclusion	YourCheapMode-recipe-result-multiplier	YourCheapMode-recipe-time-multiplier	YourCheapMode-user-excluded-names	YourCheapMode-user-excluded-categories	YourCheapMode-user-excluded-subgroups	[mod-setting-description]	YourCheapMode-player-items-exclusion	YourCheapMode-recipe-result-multiplier	YourCheapMode-recipe-time-multiplier	YourCheapMode-user-excluded-names	YourCheapMode-user-excluded-categories	YourCheapMode-user-excluded-subgroups
+af																			
+ar																			
+be																			
+bg																			
+ca																			
+cs																			
+da																			
+de	TRUE		Ihr günstiger Modus		Reduziert die Kosten einzelner Artikel kontinuierlich durch die Vervielfachung der Leistungs- und Zeitwerte der meisten Rezepte. Es stehen Einstellungen zur Verfügung, um die Multiplikation benutzerdefinierter Rezepte zu verhindern und die Ausgabe- und Zeitmultiplikatoren anzupassen.		Ausgenommen sind Ausrüstung und Waffen	Rezeptausgabemultiplikator	Rezeptzeitmultiplikator	Benutzerdefinierte Rezeptnamen zum Überspringen	Benutzerdefinierte Rezeptkategorien zum Überspringen	Benutzerdefinierte Rezeptuntergruppen zum Überspringen		Wenn diese Option aktiviert ist, werden Waffen und persönliche Ausrüstungsgegenstände nicht vervielfacht.	Der Betrag, mit dem die Ausgabe jedes Rezepts multipliziert wird.	Die Herstellungszeit, mit der jedes Rezept multipliziert wird.	Durch Kommas getrennte Liste ohne Leerzeichen mit Rezeptnamen, deren Änderung übersprungen werden soll.	Durch Kommas getrennte Liste der Rezeptkategorien ohne Leerzeichen, deren Änderung übersprungen werden soll.	Durch Kommas getrennte Liste der Rezeptuntergruppen ohne Leerzeichen, deren Änderung übersprungen werden soll.
+el																			
+en	TRUE		Your Cheap Mode		Reduces the cost of individual items by multiplying the output and time values of most recipes. Settings are provided to prevent multiplication of user-specified recipes, and to adjust the output and time multipliers.		Exclude Equipment and Weapons	Recipe Output Multiplier	Recipe Time Multiplier	User-Defined recipe names to skip	User-Defined recipe categories to skip	User-Defined recipe subgroups to skip		When enabled, weapons and personal equipment items will not be multiplied.	The amount that the output of each recipe will be multiplied by.	The crafting time that each recipe will be multiplied by.	Comma-separated, no-space list of recipe names to skip changing.	Comma-separated, no-space list of recipe categories to skip changing.	Comma-separated, no-space list of recipe subgroups to skip changing.
+eo																			
+es-ES	TRUE		Modo Barato		Reduce el coste individual de los items multiplicando el valor de producción y tiempo de la mayoría de las recetas. Se pueden configurar las recetas sobre las que prevenir esta multiplicación y ajustar los multiplicadores de producción y tiempo.		Excluir equipamiento y armas	Multiplicador de la producción de las recetas	Multiplicador de tiempo de la receta	Nombres de recetas a excluir	Categorías de recetas a excluir	Subgrupos de recetas a excluir		Cuando esté habilitado, no se aplicará el multiplicador en armas y equipamiento personal.	La cantidad por la que se multiplicará la producción de cada receta.	El tiempo de elaboración por el que se multiplicará cada receta.	Lista de nombres de recetas separados por comas y sin espacios para omitir cambios.	Lista de categorías de recetas separadas por comas y sin espacios para omitir cambios.	Lista sin espacios y separados por comas de subgrupos de recetas para omitir cambios.
+et																			
+eu																			
+fa																			
+fi																			
+fil																			
+fr																			
+fy-NL																			
+ga-IE																			
+he																			
+hr																			
+hu																			
+id																			
+is																			
+it																			
+ja	TRUE		あなたの安いモード		ほとんどのレシピの生産量と時間の値を乗算することで、個々のアイテムのコストを削減します。 ユーザー指定のレシピの増殖を防止し、出力と時間の乗数を調整するための設定が提供されています。		装備や武器を除く	レシピ出力乗数	レシピ時間乗数	スキップするユーザー定義のレシピ名	スキップするユーザー定義のレシピ カテゴリ	スキップするユーザー定義のレシピサブグループ		有効にすると、武器や個人装備アイテムは増加しません。	各レシピの出力に乗算される量。	各レシピにかかる製作時間は増加します。	変更をスキップするレシピ名のカンマ区切り、スペースなしのリスト。	変更をスキップするレシピ カテゴリのカンマ区切り、スペースなしのリスト。 	変更をスキップするレシピサブグループのカンマ区切り、スペースなしのリスト。 
+ka																			
+kk																			
+ko																			
+lt																			
+lv																			
+nl																			
+no																			
+pl																			
+pt-BR																			
+pt-PT																			
+ro																			
+ru	TRUE		Ваш дешевый режим		Последовательно снижает стоимость отдельных предметов за счет умножения производительности и времени большинства рецептов. Настройки предназначены для предотвращения умножения заданных пользователем рецептов, а также для настройки множителей производительности и времени.		Исключить снаряжение и оружие	Множитель вывода рецепта	Множитель времени рецепта	Названия рецептов, определяемые пользователем, которые следует пропустить	Категории рецептов, определяемые пользователем, которые можно пропустить	Пользовательские подгруппы рецептов, которые можно пропустить		При включении предметы оружия и личного снаряжения не будут умножаться.	Сумма, на которую будет умножен выход каждого рецепта.	Время изготовления, на которое будет умножаться каждый рецепт.	Список названий рецептов, разделенных запятыми, без пробелов, которые можно пропустить.	Разделенный запятыми список категорий рецептов без пробелов, которые можно пропустить.	Список подгрупп рецептов, разделенных запятыми, без пробелов, которые можно пропустить.
+sk																			
+sl																			
+sq																			
+sr																			
+sv-SE																			
+th																			
+tr																			
+uk																			
+vi																			
+zh-CN	TRUE		您的廉价模式		通过乘以大多数配方的产量和时间值，持续降低单个项目的成本。 提供设置以防止用户指定的配方相乘，并调整输出和时间乘数。		排除装备和武器	配方输出乘数	配方时间倍增器	要跳过的用户定义的配方名称	要跳过的用户定义的食谱类别	要跳过的用户定义的配方子组		启用后，武器和个人装备物品不会成倍增加。	每个配方的输出将乘以的数量。	每个配方将乘以的制作时间。	以逗号分隔、无空格的配方名称列表，可跳过更改。	以逗号分隔、无空格的食谱类别列表，可跳过更改。 	以逗号分隔、无空格的配方子组列表，可跳过更改。
+zh-TW																			
